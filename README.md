@@ -4,6 +4,8 @@ I build things that make sense — clean, high-performance systems, tools, and i
 I don't chase trends or buzzwords. I focus on what works, what scales, and what lasts.  
 Code, for me, isn't a career path — it's a language of thought. A way to express logic, precision, and creativity at the same time.
 
+🌐 **Website:** [danielcoderx.github.io](https://danielcoderx.github.io/)
+
 ---
 
 ## 🧭 What Drives Me
@@ -69,6 +71,13 @@ Languages and tools are just means to an end, but these are what I usually reach
 
 ---
 
+## 📝 Writing & Articles
+
+I publish technical articles, thoughts on systems engineering, and deep dives on my personal site:  
+👉 **[danielcoderx.github.io/blog](https://danielcoderx.github.io/blog)**
+
+---
+
 ## 🌌 Beyond Code
 
 I read a lot about **physics**, **philosophy**, and **human behavior**.  
@@ -81,7 +90,8 @@ Everything I build comes from that philosophy: understand first, create second.
 
 If you ever want to talk about deep tech, architecture, or ideas that matter:
 
-- Telegram: [@danielcoderx](https://t.me/danielcoderx)
+- **Website:** [danielcoderx.github.io](https://danielcoderx.github.io/)
+- **Telegram:** [@danielcoderx](https://t.me/danielcoderx)
 
 ---
 
